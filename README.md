@@ -3,7 +3,8 @@
 
 This supplementary material provides the code for training and evaluating the seven models discussed in our paper: M-Im, M-Ta, M-Plo, M-ImTa, M-ImPlo, M-TaPlo, and M-All. Due to copyright issues, we are unable to provide the original audio and images. Instead, we have the metadata from Wikipedia, without the image and video which can be scraped through YouTube.
 
-An image, tags, and a plot summary for a film will be substituted with a blank image, `['tag1', 'tag2', 'tag3']`, and the phrase "this is a plot", respectively. Additionally, soundtracks will be replaced with white noise. The Python code to construct data based on a Wikipedia URL, including the list of Wikipedia URLs used in our experiments for reproducibility, will be provided upon acceptance. We also commit to releasing this supplementary material publicly upon acceptance to ensure reproducibility.
+An image, tags, and a plot summary for a film will be substituted with a blank image, `['tag1', 'tag2', 'tag3']`, and the phrase "this is a plot", respectively. Additionally, soundtracks will be replaced with white noise. 
+
 
 ## 1. Create a Virtual Environment and Install Required Packages
 
