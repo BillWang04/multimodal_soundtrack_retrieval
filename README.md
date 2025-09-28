@@ -56,7 +56,7 @@ python -m main --experiment_models All
 ### Model Checkpoints
 
 Pre-trained model checkpoints are available on Hugging Face: 
-**[https://huggingface.co/your-username/multimodal-soundtrack-retrieval](https://huggingface.co/your-username/multimodal-soundtrack-retrieval)**
+**[https://huggingface.co/wangtonSoup/multimodal-soundtrack-retrieval](https://huggingface.co/wangtonSoup/multimodal-soundtrack-retrieval)**
 
 # Install dependencies
 pip install -r requirements.txt
